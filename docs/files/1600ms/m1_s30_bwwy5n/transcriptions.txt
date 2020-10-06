@@ -1,4 +1,0 @@
-Ground truth ARPABET: B,IH,N,W,AY,T,W,IH,DH,W,AY,F,AY,V,N,AW
-Transcription masked ARPABET: L,IY,Z
-Transcription AO-MTL ARPABET: B,IH,N,UW,IH,EH,S,EH,V,AH,N,AW
-Transcription AV-MTL ARPABET: B,IH,N,W,AY,T,W,IH,DH,W,AY,F,AY,V,N,AW
