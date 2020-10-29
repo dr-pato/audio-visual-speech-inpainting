@@ -253,15 +253,13 @@ width="800" height="450" src="https://www.youtube.com/embed/_3rSsVrV2Dc" framebo
 </table>
 </div>
 
-<!--
 ## Paper
-The paper is available [here](https://arxiv.org/abs/1811.02480). If this project is useful for your research, please cite:
+The paper is available [here](https://arxiv.org/abs/2010.04556.pdf). If this project is useful for your research, please cite:
 ```
-@article{morrone2018face,
-  title={Face Landmark-based Speaker-Independent Audio-Visual Speech Enhancement in Multi-Talker Environments},
-  author={Morrone, Giovanni and Pasa, Luca and Tikhanoff, Vadim and Bergamaschi, Sonia and Fadiga, Luciano and Badino, Leonardo},
-  journal={arXiv preprint arXiv:1811.02480},
-  year={2018}
+@article{morrone2020audio,
+  title={Audio-Visual Speech Inpainting with Deep Learning},
+  author={Morrone, Giovanni and Michelsanti, Daniel and Tan, Zheng-Hua and Jensen, Jesper},
+  journal={arXiv preprint arXiv:2010.04556},
+  year={2020}
 }
 ```
--->
