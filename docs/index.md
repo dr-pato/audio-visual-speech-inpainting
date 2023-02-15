@@ -256,10 +256,12 @@ width="800" height="450" src="https://www.youtube.com/embed/_3rSsVrV2Dc" framebo
 ## Paper
 The paper is available [here](https://arxiv.org/abs/2010.04556.pdf). If this project is useful for your research, please cite:
 ```
-@article{morrone2020audio,
-  title={Audio-Visual Speech Inpainting with Deep Learning},
+@inproceedings{morrone2021audio,
+  title={Audio-visual speech inpainting with deep learning},
   author={Morrone, Giovanni and Michelsanti, Daniel and Tan, Zheng-Hua and Jensen, Jesper},
-  journal={arXiv preprint arXiv:2010.04556},
-  year={2020}
+  booktitle={2021 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
+  pages={6653--6657},
+  year={2021},
+  organization={IEEE}
 }
 ```
