@@ -1,0 +1,7 @@
+mir-eval>=0.4
+numpy>=1.14.0
+pydub>=0.21.0
+scipy>=1.0.0
+tensorboard>=1.10.0
+tensorflow>=1.13.0
+tensorflow-gpu>=1.13.0
